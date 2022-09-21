@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ningthibi
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Data Science and Machine Learning and doing Data Analysis Projects.
+- 🌱 I’m currently learning Data Science and Machine Learning.
 - 📫 How to reach me ningthibi20518@gmail.com.
 
 <!---
